@@ -36,3 +36,5 @@ const QuoteGenerator = () => {
 };
 
 export default QuoteGenerator;
+
+// déploiement Vercel : https://quoteapp-one.vercel.app/
